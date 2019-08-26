@@ -1,0 +1,127 @@
+OnlineQuiz
+********************************************************************
+
+		1. Add Question
+		2.  Play Quiz
+		0. Exit
+		Enter choice : 1
+********************************************************************
+
+	if choice is 1:
+
+	Question 1 : what is java?
+
+	Option a : java is language.
+
+	Option b : java is technology.
+
+	do you want to add more options(y/n) : y
+	 
+	option c : java is boring language.
+
+	do you want to add more options(y/n) : y
+
+	option d : ..................
+
+	do you want to add more option (y/n) : n
+
+	correct option (a/b/c/d ) : e
+
+	Sorry!!! please try with option (a/b/c/d ) : b
+
+_________________________________________________________
+
+	do you want to add more Questions (y/n) : y
+
+	Question 2 : what is cpp?
+
+	option a : cppis nothing.
+
+	option b : cpp is .....
+
+	do you want to add more option (y/n) : y
+
+	......
+	......
+	......
+
+
+	do yo want to add more Questions(y/n) : n
+
+**********************************************************************
+
+	1. add Questions
+	2. Play Quiz
+	0. Exit
+	Enter Chocie: 2
+
+***********************************************************************
+	if choiceis 2
+
+	Play random 15 non repeated question.
+
+	Question 1 : what is cpp?
+
+	option a: .......		Option b: .......
+
+	Option c: .......		
+
+	correct answer (a/b/c) : e
+
+	Sorry!!!try with (a/b/c): c
+
+	Question 2: what is java?
+
+	option a: ......		option b:.......
+	option c: ......		option d:......
+
+	correct answer (a/b/c/d) : d
+
+
+
+	....
+	....
+
+
+
+*******************************************************************
+
+	****************Result*****************
+
+	Wrong answers : 9
+	correct answers : 6
+
+	do you want to view your wrong answers (y/n) : 
+	
+	Question 4 : where is agra?
+	option c : up.
+
+	Question 5: .....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
